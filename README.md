@@ -8,7 +8,7 @@ consisting of:
 
 
 
-## dependencies:
+dependencies:
 
 - sklearn
 
